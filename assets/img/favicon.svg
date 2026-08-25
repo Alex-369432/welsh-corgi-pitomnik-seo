@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Вельш-корги пемброк">
+  <circle cx="32" cy="32" r="32" fill="#c8551f"/>
+  <!-- уши: главный узнаваемый признак породы, поэтому крупные -->
+  <path d="M13 34 L15.5 9 L31 25 Z" fill="#e08a3c"/>
+  <path d="M51 34 L48.5 9 L33 25 Z" fill="#e08a3c"/>
+  <path d="M17 30 L18.5 15 L27.5 26 Z" fill="#f8e2d3"/>
+  <path d="M47 30 L45.5 15 L36.5 26 Z" fill="#f8e2d3"/>
+  <!-- голова -->
+  <ellipse cx="32" cy="38" rx="19" ry="16" fill="#e08a3c"/>
+  <!-- белая проточина и морда -->
+  <path d="M32 22 L27 42 L32 46 L37 42 Z" fill="#faf3ec"/>
+  <ellipse cx="32" cy="45" rx="11.5" ry="8.5" fill="#faf3ec"/>
+  <!-- глаза -->
+  <circle cx="24" cy="36" r="2.6" fill="#241b14"/>
+  <circle cx="40" cy="36" r="2.6" fill="#241b14"/>
+  <!-- нос и улыбка -->
+  <ellipse cx="32" cy="42" rx="3.2" ry="2.4" fill="#241b14"/>
+  <path d="M28.5 46.5 q3.5 3 7 0" stroke="#241b14" stroke-width="1.7" fill="none" stroke-linecap="round"/>
+</svg>
